@@ -1,2 +1,2 @@
 # Complex-Network
-Results and code from complex dynamics course
+Results and codes from complex dynamics course
